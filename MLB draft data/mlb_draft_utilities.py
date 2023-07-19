@@ -5,7 +5,7 @@ Created on Tue Apr 25 23:10:34 2023
 @author: Tommy
 """
 
-# Tommy Heideman and Joey Matusik 
+
 
 import pandas as pd
 
