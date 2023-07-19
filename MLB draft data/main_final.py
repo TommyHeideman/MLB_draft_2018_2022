@@ -4,7 +4,7 @@ Created on Thu Apr 27 12:37:57 2023
 
 @author: Tommy
 """
-#Tommy Heideman and Joey Matusik 
+
 
 
 
