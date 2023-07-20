@@ -50,43 +50,7 @@ for year, positions in top_5_positions.items():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""def HSvCollege():
+def HSvCollege():
 
     # Create a list of years to loop over
     years = [2018,2019,2020,2021,2022]
@@ -262,7 +226,7 @@ def TopSchools():
     
     return 0
 
-TopSchools()"""
+TopSchools()
 
 
 
